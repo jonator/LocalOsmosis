@@ -532,39 +532,39 @@
       "superfluid_assets": [
         {
           "denom": "GAMM/1",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/2",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/3",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/4",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/5",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/6",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/7",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/8",
-          "asset_type": "1"
+          "asset_type": 1
         },
         {
           "denom": "GAMM/9",
-          "asset_type": "1"
+          "asset_type": 1
         }
       ],
       "osmo_equivalent_multipliers": [],
