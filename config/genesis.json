@@ -531,40 +531,40 @@
       },
       "superfluid_assets": [
         {
-          "Denom": "gamm/pool/1",
-          "AssetType": 1
+          "denom": "gamm/pool/1",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/2",
-          "AssetType": 1
+          "denom": "gamm/pool/2",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/3",
-          "AssetType": 1
+          "denom": "gamm/pool/3",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/4",
-          "AssetType": 1
+          "denom": "gamm/pool/4",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/5",
-          "AssetType": 1
+          "denom": "gamm/pool/5",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/6",
-          "AssetType": 1
+          "denom": "gamm/pool/6",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/7",
-          "AssetType": 1
+          "denom": "gamm/pool/7",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/8",
-          "AssetType": 1
+          "denom": "gamm/pool/8",
+          "asset_type": 1
         },
         {
-          "Denom": "gamm/pool/9",
-          "AssetType": 1
+          "denom": "gamm/pool/9",
+          "asset_type": 1
         }
       ],
       "osmo_equivalent_multipliers": [],
