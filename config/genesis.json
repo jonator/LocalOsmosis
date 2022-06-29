@@ -14,9 +14,7 @@
       "max_bytes": "1048576"
     },
     "validator": {
-      "pub_key_types": [
-        "ed25519"
-      ]
+      "pub_key_types": ["ed25519"]
     },
     "version": {}
   },
@@ -430,10 +428,7 @@
         "clients_consensus": [],
         "clients_metadata": [],
         "params": {
-          "allowed_clients": [
-            "06-solomachine",
-            "07-tendermint"
-          ]
+          "allowed_clients": ["06-solomachine", "07-tendermint"]
         },
         "create_localhost": false,
         "next_client_sequence": "0"
@@ -462,12 +457,7 @@
         "distr_epoch_identifier": "day"
       },
       "gauges": [],
-      "lockable_durations": [
-        "1s",
-        "120s",
-        "180s",
-        "240s"
-      ],
+      "lockable_durations": ["1s", "120s", "180s", "240s"],
       "last_gauge_id": "0"
     },
     "lockup": {
@@ -501,11 +491,7 @@
       "params": {
         "minted_denom": "uosmo"
       },
-      "lockable_durations": [
-        "120s",
-        "180s",
-        "240s"
-      ],
+      "lockable_durations": ["120s", "180s", "240s"],
       "distr_info": {
         "total_weight": "0",
         "records": []
@@ -543,7 +529,44 @@
       "params": {
         "minimum_risk_factor": "0.500000000000000000"
       },
-      "superfluid_assets": [],
+      "superfluid_assets": [
+        {
+          "Denom": "gamm/pool/1",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/2",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/3",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/4",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/5",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/6",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/7",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/8",
+          "AssetType": 1
+        },
+        {
+          "Denom": "gamm/pool/9",
+          "AssetType": 1
+        }
+      ],
       "osmo_equivalent_multipliers": [],
       "intermediary_accounts": [],
       "intemediary_account_connections": []
